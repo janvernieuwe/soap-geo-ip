@@ -13,7 +13,4 @@ class GetGeoIPContext implements RequestInterface
     public function __construct()
     {
     }
-
-
 }
-

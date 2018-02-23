@@ -31,7 +31,4 @@ class GetGeoIPContextResponse implements ResultInterface
 
         return $new;
     }
-
-
 }
-

@@ -149,7 +149,4 @@ class GeoIP implements RequestInterface
 
         return $new;
     }
-
-
 }
-

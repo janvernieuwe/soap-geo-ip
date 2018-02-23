@@ -19,7 +19,4 @@ class GeoIpClassmap
             new ClassMap('GetGeoIPContextResponse', Type\GetGeoIPContextResponse::class),
         ]);
     }
-
-
 }
-

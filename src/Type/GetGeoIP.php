@@ -41,7 +41,4 @@ class GetGeoIP implements RequestInterface
 
         return $new;
     }
-
-
 }
-

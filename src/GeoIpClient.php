@@ -14,7 +14,4 @@ class GeoIpClient extends \Phpro\SoapClient\Client
     {
         return $this->call('GetGeoIPContext', $GetGeoIPContext);
     }
-
-
 }
-

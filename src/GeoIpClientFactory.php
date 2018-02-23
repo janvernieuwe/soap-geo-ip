@@ -18,7 +18,4 @@ class GeoIpClientFactory
 
         return $clientBuilder->build();
     }
-
-
 }
-
